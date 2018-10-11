@@ -1,0 +1,8 @@
+GetLocation.Activity1, GetLocation;md51bbfaa1d11d5bdea09a333a278fbfb98.Activity1
+GetLocation.Activity1, GetLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51bbfaa1d11d5bdea09a333a278fbfb98.Activity1
+GetLocation.Activity1;md51bbfaa1d11d5bdea09a333a278fbfb98.Activity1
+getlocation.Activity1;md51bbfaa1d11d5bdea09a333a278fbfb98.Activity1
+GetLocation.MainActivity, GetLocation;md51bbfaa1d11d5bdea09a333a278fbfb98.MainActivity
+GetLocation.MainActivity, GetLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51bbfaa1d11d5bdea09a333a278fbfb98.MainActivity
+GetLocation.MainActivity;md51bbfaa1d11d5bdea09a333a278fbfb98.MainActivity
+getlocation.MainActivity;md51bbfaa1d11d5bdea09a333a278fbfb98.MainActivity

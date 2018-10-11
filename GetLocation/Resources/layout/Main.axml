@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:background="#696969"
+    android:id="@+id/linearLayout1">
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:text=" Визначення GPS-координат локації"
+        android:layout_marginRight="27.0dp"
+        android:layout_marginBottom="0.0dp" />
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar1" />
+    <Button
+        android:layout_width="356.5dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_height="wrap_content"
+        android:id="@+id/get_address_button"
+        android:text="ОТРИМАТИ МІСЦЕПОЛОЖЕННЯ" />
+</LinearLayout>

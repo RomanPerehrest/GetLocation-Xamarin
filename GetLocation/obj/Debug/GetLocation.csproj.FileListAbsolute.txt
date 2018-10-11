@@ -1,0 +1,41 @@
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\GetLocation.dll
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\GetLocation.pdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\GetLocation.GetLocation.apk
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\GetLocation.GetLocation-Signed.apk
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\GetLocation.dll
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\GetLocation.pdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\bin\GetLocation.GetLocation.apk
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\res\layout\main.xml
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\res\values\strings.xml
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\res\drawable\icon.png
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\R.cs.flag
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\uploadflags.txt
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\GetLocation.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\mscorlib.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\System.Core.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\System.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\System.Xml.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\GetLocation.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\GetLocation.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Documents\Visual Studio 2015\Projects\GetLocation\GetLocation\obj\Debug\GetLocation.dll.mdb
+E:\бибип\2.2\мобілки\типа 7\GetLocation\obj\Debug\GetLocation.csprojResolveAssemblyReference.cache
+E:\бибип\2.2\мобілки\типа 7\GetLocation\obj\Debug\GetLocation.dll
+E:\бибип\2.2\мобілки\типа 7\GetLocation\obj\Debug\GetLocation.pdb
